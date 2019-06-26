@@ -1,0 +1,27 @@
+problem defination:
+
+To use public cloud for IT solution
+---------------------------------------------------------------
+
+1)Rockwell Automation centers data storage issue
+
+2)company has 35000 emplyees all over world,suddenly number of employees increases.
+
+3)before growth of company,rockwell has its own private cloude.
+
+4)because of growth of company no of employees increases.
+
+5)that create problem of storing shortage.
+
+6)all employees scatterd all across word.
+
+7)to share data they need medium.
+
+8)to get out off  this company want global cloude that all customer can access.and share their data.
+
+9)There requirement is all employess should be able to access their human resourses solution portal.
+
+10)Rockwall want to use Amazon Web Services public cloude to fullfill there requirement.
+
+
+
