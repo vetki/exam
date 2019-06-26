@@ -1,0 +1,25 @@
+Functional Requirement:
+--------------------------------------------------
+Registration:employee should be register amazon site.
+
+login:as soon as employee login site.employee got all user access.
+
+instance :
+instance shpoude be ceated simply and fastly.
+
+access:
+using human resource portal employee can sccess google account
+
+sharibilty:
+employee and smooothly share their data on cloude.
+data shoule be secure.
+---------------------------------------------------
+Non Functional Requirment:
+
+Availability:app must be available 24*7
+
+scalability:we can easily change it
+
+security:data must be secure
+
+maintainability:data must be maintain on cloud.
